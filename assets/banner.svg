@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Routledge Marketing Analytics: marketing performance and the FY2026 budget">
+  <title>Routledge Marketing Analytics</title>
+  <rect width="1280" height="300" fill="#0A2A66"/>
+  <rect y="292" width="1280" height="8" fill="#F0A02E"/>
+  <g fill="#13397F">
+    <rect x="1010" y="170" width="38" height="90" rx="3"/>
+    <rect x="1060" y="130" width="38" height="130" rx="3"/>
+    <rect x="1110" y="150" width="38" height="110" rx="3"/>
+    <rect x="1160" y="95" width="38" height="165" rx="3"/>
+    <rect x="1210" y="60" width="38" height="200" rx="3"/>
+  </g>
+  <polyline points="1029,150 1079,112 1129,128 1179,78 1229,44" fill="none" stroke="#F0A02E" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#F0A02E">
+    <circle cx="1029" cy="150" r="6"/>
+    <circle cx="1079" cy="112" r="6"/>
+    <circle cx="1129" cy="128" r="6"/>
+    <circle cx="1179" cy="78" r="6"/>
+    <circle cx="1229" cy="44" r="6"/>
+  </g>
+  <rect x="70" y="72" width="64" height="6" fill="#F0A02E"/>
+  <text x="70" y="148" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#FFFFFF">Routledge Marketing Analytics</text>
+  <text x="70" y="200" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="26" fill="#D9E1F2">Marketing performance and the FY2026 budget  |  October 2025</text>
+  <text x="70" y="244" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="1.5" fill="#F0A02E">RECONCILIATION  |  ATTRIBUTION  |  CUSTOMER VALUE  |  BUDGET PLANNING</text>
+</svg>
